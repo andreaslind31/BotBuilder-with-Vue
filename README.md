@@ -1,6 +1,6 @@
 # Building-a-bot-with-Vue
 
-#### App using Vue, Vue Router, Vue CLI, axios, eslint, Node.
+#### App using Vue, Vue Router, Vue CLI, axios, eslint.
 
 #### Course from pluralsight with Jim Cooper - Vue Fundamentals
 
